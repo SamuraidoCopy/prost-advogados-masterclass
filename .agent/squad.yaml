@@ -1,0 +1,5 @@
+agents:
+  - name: Brad
+    source: ./workflows/brad.md
+  - name: Marcos
+    source: ./workflows/marcos.md
