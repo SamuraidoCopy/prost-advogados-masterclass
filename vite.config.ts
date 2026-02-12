@@ -5,7 +5,7 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: './',
+  base: "/prost-advogados-masterclass/",
   server: {
     host: "::",
     port: 8080,
